@@ -2,6 +2,8 @@
 # Display name
 title: Samuel Walters
 
+weight:2
+
 # Username (this should match the folder name)
 authors:
 - walterss

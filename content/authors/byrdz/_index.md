@@ -2,6 +2,8 @@
 # Display name
 title: Zachary Byrd
 
+weight:1
+
 # Username (this should match the folder name)
 authors:
 - byrdz
