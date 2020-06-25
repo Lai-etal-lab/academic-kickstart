@@ -29,7 +29,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-markup: mmark
+
 ---
 
 **Production of turbulence in an array of spheres with relative motions: air-water flows**

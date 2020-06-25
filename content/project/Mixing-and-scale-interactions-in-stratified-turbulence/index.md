@@ -29,7 +29,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-markup: mmark
+
 ---
 
 **Mixing and scale interactions in stratified turbulence: improving turbulence models and estimates of oceanic mixing efficiency**
