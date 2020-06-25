@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+name: Chris CK Lai
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: School of Civil and Environmental Engineering at Georgia Institute of Technology
+  url: "https://www.ce.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include experimental fluid mechanics, turbulent mixing and transport, and theory and modeling of turbulence.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Experimental Fluid Mechanics
+- Turbulent Mixing and Transport
+- Turbulence Theory and Modeling
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Civil Engineering
+    institution: Texas A&M University
+    year: 2015
+  - course: MPhil in Civil Engineering
+    institution: University of Hong Kong
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BEng in Civil Engineering
+    institution: University of Hong Kong
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +45,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=Hz3tsIAAAAAJ&hl=en&oi=ao
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Chris_Ck_Lai
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/chris-c-k-lai-703090121/
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +71,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: ["Principal Investigator"]
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Chris Chung-Kei Lai is an assistant professor in the School of Civil and Environmental Engineering at Georgia Institute of Technology ([department profile](https://ce.gatech.edu/people/Faculty/7833/overview)). He is also a guest scientist of the [Extreme Fluids Team](https://www.lanl.gov/projects/shocktube/index.html), physics division P-23, at Los Alamos National Laboratory, USA. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His expertise is on the design and control of the transport/exchange of contaminants and nutrients in water/air bodies and across the interface between the two. This transport/exchange is heavily governed by the turbulence presence inside the fluid. His group uses and develops **experimental methods** to study the dynamic interplay between turbulent flows and their surroundings and **continuum mechanics** for the development of predictive models of turbulence. 
+
