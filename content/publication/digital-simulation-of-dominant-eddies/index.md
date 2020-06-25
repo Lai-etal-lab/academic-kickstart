@@ -1,4 +1,4 @@
-+++
+---
 title = "Digital Simulation of Dominant Eddies of A Co-Flowing Jet"
 date = 2009-01-01T00:00:00
 
@@ -78,5 +78,5 @@ math = false
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-+++
+---
 

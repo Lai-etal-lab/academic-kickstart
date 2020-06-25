@@ -21,25 +21,25 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
+    [[content.filter_button]]
+      name = "All"
+      tag = "*"
   
-   [[content.filter_button]]
-     name = "Multiphase flow"
-     tag = "Multiphase flow"
+    [[content.filter_button]]
+      name = "Multiphase flow"
+      tag = "Multiphase flow"
   
-   [[content.filter_button]]
-     name = "Hyporheic mixing"
-     tag = "Hyporheic mixing"
+    [[content.filter_button]]
+      name = "Hyporheic mixing"
+      tag = "Hyporheic mixing"
 
-   [[content.filter_button]]
-     name = "Mixing efficiency"
-     tag = "Mixing efficiency"
+    [[content.filter_button]]
+      name = "Mixing efficiency"
+      tag = "Mixing efficiency"
 
-   [[content.filter_button]]
-     name = "Density Stratification"
-     tag = "Density Stratification"
+    [[content.filter_button]]
+      name = "Density Stratification"
+      tag = "Density Stratification"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
