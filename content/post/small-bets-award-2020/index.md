@@ -11,6 +11,9 @@ lastmod: 2020-04-22T17:18:37-04:00
 featured: false
 draft: false
 
+# Show author profile?
+profile: false  
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
