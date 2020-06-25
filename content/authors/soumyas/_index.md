@@ -4,7 +4,7 @@ title: Shantanu Soumya
 
 # Username (this should match the folder name)
 authors:
-- ssoumya
+- soumyas
 
 # Is this the primary user of the site?
 superuser: false

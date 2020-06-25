@@ -4,13 +4,13 @@ title: Zachary Byrd
 
 # Username (this should match the folder name)
 authors:
-- zbyrd
+- byrdz
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergrad Researcher (Spring '20 - Present)
+role: Undergrad Researcher (Spring '20)
 
 # Organizations/Affiliations
 organizations:
