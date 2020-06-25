@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student (Summer '20 - Present); MSc Student, Fulbright Scholar (Spring '20)
+role: PhD Student (Fall '20 - Present); MSc Student, Fulbright Scholar (Spring '20)
 
 # Organizations/Affiliations
 organizations:

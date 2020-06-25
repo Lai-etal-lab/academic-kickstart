@@ -18,6 +18,18 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Fall 2020"
+  organization_url = ""
+  title = "CEE 6281. Open Channel Hydraulics. 3 Credit Hours."
+  url = ""
+  certificate_url = ""
+  date_start = "2020-08-17"
+  date_end = "2020-12-12"
+  description = "Dynamics, mixing, and contaminant transport in surface water bodies, including lakes, rivers, estuaries, and coastal waters. Introduction to numerical models. Prediction of mixing zones."
+
+
 [[item]]
   organization = "Spring 2020"
   organization_url = ""
