@@ -12,6 +12,7 @@
   name = "People"
   url = "#people"
   weight = 15
+  identifier = "people"
 
 [[main]]
   name = "Former members"
