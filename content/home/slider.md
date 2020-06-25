@@ -24,7 +24,7 @@ height = "480px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#5d6d7e"  # An HTML color value.
   overlay_img = "research_focus.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
