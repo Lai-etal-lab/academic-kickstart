@@ -14,6 +14,12 @@
   weight = 15
 
 [[main]]
+  name = "Former members"
+  url = "#projects"
+  weight = 10
+  parent = "people"
+
+[[main]]
   name = "Research"
   url = "#projects"
   weight = 20
