@@ -29,7 +29,7 @@ education:
     institution: National University of Science and Technology (NUST), Islamabad.
     year: 2012
   - course: MSc in Civil Engineering & Environmental Engineering
-  	institution: Georgia Institute of Technology
+    institution: Georgia Institute of Technology
     year: 2020
 
 # Social/Academic Networking
