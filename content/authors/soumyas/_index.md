@@ -2,7 +2,7 @@
 # Display name
 title: Shantanu Soumya
 
-weight: <1>
+weight: 1
 
 # Username (this should match the folder name)
 authors:
