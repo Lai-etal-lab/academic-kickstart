@@ -15,8 +15,8 @@
   identifier = "people"
 
 [[main]]
-  name = "Former members"
-  url = "#projects"
+  name = "Team"
+  url = "#people"
   weight = 10
   parent = "people"
 
