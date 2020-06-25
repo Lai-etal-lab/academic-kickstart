@@ -74,11 +74,11 @@ math: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
-  # Caption (optional)
-  # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+# Caption (optional)
+# caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: ""
 ---
 
