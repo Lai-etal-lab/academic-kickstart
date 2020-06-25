@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Muhammad Ahmad Mustafa 
+title: Muhammad Ahmad Mustafa 
 
 # Username (this should match the folder name)
 authors:

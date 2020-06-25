@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Chris CK Lai
+title: Chris CK Lai
 
 # Username (this should match the folder name)
 authors:

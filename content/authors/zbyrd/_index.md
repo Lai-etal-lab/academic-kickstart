@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zachary Byrd
+title: Zachary Byrd
 
 # Username (this should match the folder name)
 authors:
