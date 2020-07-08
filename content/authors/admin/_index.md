@@ -31,10 +31,10 @@ education:
     institution: Texas A&M University
     year: 2015
   - course: MPhil in Civil Engineering
-    institution: University of Hong Kong
+    institution: The University of Hong Kong
     year: 2009
   - course: BEng in Civil Engineering
-    institution: University of Hong Kong
+    institution: The University of Hong Kong
     year: 2007
 
 # Social/Academic Networking
