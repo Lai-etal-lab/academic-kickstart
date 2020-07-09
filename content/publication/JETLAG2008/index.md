@@ -1,15 +1,14 @@
 ---
 title: "Energy cascade in a homogeneous swarm of bubbles rising in a vertical channel"
 authors:
+- Joseph HW Lee
+- Valiant Cheung
 - admin
-- Bruño Fraga
-- Ronald Chan
-- Michael Dodd
-date: "2018-Aug-01T00:00:00Z"
+date: "2008-Dec-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-08-01T00:00:00Z"
+publishDate: "2008-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,10 +17,10 @@ publishDate: "2018-08-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of the Summmer Program, Center for Turbulence Research*"
+publication: "*Croucher Laboratory  of Environmental Hydraulics*"
 publication_short: ""
 
-abstract: We perform direct numerical simulations (DNS) of millimeter-size air bubbles risingin a vertical water channel. Our objective is to study the energy cascade in this simpleconfiguration, which is a prototype of other more complex flows involving bubbles anddroplets. Both rigid and deformable bubbles are considered using the immersed boundarymethod (IBM) and the volume of fluid (VoF) method. The energy cascade is quantifiedusing the nonlinear interscale energy transfer term appearing in the K ́arm ́an-Howarth-Monin (K-H-M) equation. We observe that the energy cascade is highly anisotropic inscale space with vertical turbulent eddies exhibiting strong inverse cascades. When scale-normalized, the interscale energy transfer term shows a plateau for turbulent eddies whosesize is approximately 1 to 2 bubble diameters. However, the magnitude of that term isonly  50–60%  of  the  required  viscous  dissipation, indicating  that  the  classic  forward-cascade picture by Richardson and Kolmogorov is not satisfied despite the existence of a scale-invariant range.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
