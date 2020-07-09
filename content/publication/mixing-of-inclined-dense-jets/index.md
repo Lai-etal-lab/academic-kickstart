@@ -24,12 +24,7 @@ abstract:
 summary: 
 
 tags:
-- Bubble plumes
-- two-phase flows
-- turbulence
-- energy cascade
-- velocity spectra
-- data interpolation
+
 
 featured: false
 
