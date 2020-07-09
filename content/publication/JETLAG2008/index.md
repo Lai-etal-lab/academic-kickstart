@@ -1,5 +1,5 @@
 ---
-title: "Energy cascade in a homogeneous swarm of bubbles rising in a vertical channel"
+title: "JETLAG2008 - An Update"
 authors:
 - Joseph HW Lee
 - Valiant Cheung
