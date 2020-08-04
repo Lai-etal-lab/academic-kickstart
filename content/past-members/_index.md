@@ -15,7 +15,7 @@ type: docs  # Do not modify.
 
 ## Undergraduate students
 
-| Command         | Description                    |
-| ----------------| ------------------------------ |
-| hugo            | Build your website.            |
-| hugo serve -w   | View your website.             |
+| Name            | Start Term                     | End Term                       |
+| ----------------| ------------------------------ | ------------------------------ | 
+| Zachary Byrd    | Spring 2020                    | Spring 2020                    |
+| Samuel Walters  | Spring 2020                    | Spring 2020                    |
