@@ -15,6 +15,12 @@
   identifier = "people"
 
 [[main]]
+  name = "Past Members"
+  url = "past-members/"
+  weight = 20
+  parent = "people"
+
+[[main]]
   name = "Team"
   url = "#people"
   weight = 10
