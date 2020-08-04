@@ -18,4 +18,4 @@ type: docs  # Do not modify.
 | Name            | Start Term                     | End Term                       |
 | ----------------| ------------------------------ | ------------------------------ | 
 | [Zachary Byrd](../author/zachary-byrd/)    | Spring 2020                    | Spring 2020                    |
-| Samuel Walters  | Spring 2020                    | Spring 2020                    |
+| [Samuel Walters](../author/samuel-walters/)  | Spring 2020                    | Spring 2020                    |
