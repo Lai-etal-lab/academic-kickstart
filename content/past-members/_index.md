@@ -17,5 +17,5 @@ type: docs  # Do not modify.
 
 | Name            | Start Term                     | End Term                       |
 | ----------------| ------------------------------ | ------------------------------ | 
-| [Zachary Byrd]({{< ref "/authors/byrdz/_index.md" >}})    | Spring 2020                    | Spring 2020                    |
+| [Zachary Byrd](/authors/zachary-byrd/)    | Spring 2020                    | Spring 2020                    |
 | Samuel Walters  | Spring 2020                    | Spring 2020                    |
