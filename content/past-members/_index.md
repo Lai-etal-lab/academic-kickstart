@@ -15,7 +15,7 @@ type: docs  # Do not modify.
 
 ## Undergraduate students
 
-| Name            | Start Term                     | End Term                       |
-| ----------------| ------------------------------ | ------------------------------ | 
-| [Zachary Byrd](../author/zachary-byrd/)    | Spring 2020                    | Spring 2020                    |
-| [Samuel Walters](../author/samuel-walters/)  | Spring 2020                    | Spring 2020                    |
+|                 | Term                           |
+| ----------------| ------------------------------ | 
+| [Samuel Walters](../author/samuel-walters/)  | Spring 2020                    | 
+| [Zachary Byrd](../author/zachary-byrd/)      | Spring 2020                    | 
