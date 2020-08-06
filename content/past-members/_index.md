@@ -15,7 +15,7 @@ type: docs  # Do not modify.
 
 ## Undergraduate students
 
-|                 | Term                           |
-| ----------------| ------------------------------ | 
-| [Samuel Walters](../author/samuel-walters/)  | Spring 2020                    | 
-| [Zachary Byrd](../author/zachary-byrd/)      | Spring 2020                    | 
+|  Name           | Major                          | Terms							| 
+| ----------------| ------------------------------ | ------------------------------ | 
+| [Samuel Walters](../author/samuel-walters/)  | Mechanical Engineering | Spring 2020                    | 
+| [Zachary Byrd](../author/zachary-byrd/)      | Mechanical Engineering | Spring 2020                    | 
