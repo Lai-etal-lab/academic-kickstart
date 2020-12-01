@@ -52,6 +52,9 @@ subtitle = ""
 
 **Welcome to the Environmental turbulence analysis littera Lab!**
 
+>  :heavy_exclamation_mark: We have a PhD position opening, anyone interested please [contact](#contact) Dr. Chris Lai and check [this page]({{< ref "/join_us/_index.md" >}}).
+
+
 The Et al. lab focuses on understanding the role of fluid mechanics in environmental processes. We are particularly interested in turbulent transport between buildings, forest, costal vegetation, and particle/droplet laden flows. We employ and further develop experimental techniques to study turbulent flows in these complex geometries. 
 
 Et al. stands for **E**nvironmental **t**urbulence **a**nalysis **l**ittera, which means the study of the effects of turbulence on environmental flows with careful and detailed experimentations and analysis to advance our design capabilities in engineering. The abbreviation [*et al.*](https://www.merriam-webster.com/dictionary/et%20al.) means *and others* and is often used to cite collaborative work in scientific journals. (Fun fact: do you know that the most cited "scientist" on Google Scholar is [{{< icon name="google-scholar" pack="ai" >}} _et al._](https://scholar.google.nl/citations?user=qGuYgMsAAAAJ&hl=en)?) The adoption of this name reflects our philosophy that science is a collaborative endeavor and benefits from different perspectives, viewing angles and inclusion. 
