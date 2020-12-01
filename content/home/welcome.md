@@ -53,7 +53,7 @@ subtitle = ""
 **Welcome to the Environmental turbulence analysis littera Lab!**
 
 {{% callout note %}}
-We have a PhD position opening, anyone interested please [contact](#contact) Dr. Chris Lai and check [this page]({{< ref "/join_us/_index.md" >}}). 
+We have a PhD position opening, anyone interested please contact Dr. Chris Lai. 
 {{% /callout %}}
 
 The Et al. lab focuses on understanding the role of fluid mechanics in environmental processes. We are particularly interested in turbulent transport between buildings, forest, costal vegetation, and particle/droplet laden flows. We employ and further develop experimental techniques to study turbulent flows in these complex geometries. 
