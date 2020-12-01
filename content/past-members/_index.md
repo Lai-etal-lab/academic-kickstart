@@ -17,5 +17,5 @@ type: docs  # Do not modify.
 
 |  Name           | Major                          | Terms							| 
 | ----------------| ------------------------------ | ------------------------------ | 
-| [Samuel Walters](../author/samuel-walters/)  | Mechanical Engineering | Spring 2020                    | 
+| [Samuel Walter](../author/samuel-walters/)  | Mechanical Engineering | Spring 2020                    | 
 | [Zachary Byrd](../author/zachary-byrd/)      | Mechanical Engineering | Spring 2020                    | 
