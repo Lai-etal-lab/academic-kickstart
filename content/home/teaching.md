@@ -20,6 +20,17 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "Spring 2021 | Spring 2020"
+  organization_url = ""
+  title = "CEE 6261. Environmental Fluid Mechanics. 3 Credit Hours."
+  url = ""
+  certificate_url = ""
+  date_start = "2021-01-01"
+  date_end = "2021-05-01"
+  description = "Dynamics, mixing, and contaminant transport in surface water bodies, including lakes, rivers, estuaries, and coastal waters. Introduction to numerical models. Prediction of mixing zones."
+
+
+[[item]]
   organization = "Fall 2020"
   organization_url = ""
   title = "CEE 6281. Open Channel Hydraulics. 3 Credit Hours."
@@ -28,17 +39,5 @@ date_format = "Jan 2006"
   date_start = "2020-08-17"
   date_end = "2020-12-12"
   description = "Flow of liquids with free surfaces in artificial and natural channels. Analysis of flow resistance. Computation of gradually varied flow profiles. Flow through transitions, spillways, bridges, culverts. Analysis of unsteady flow."
-
-
-[[item]]
-  organization = "Spring 2020"
-  organization_url = ""
-  title = "CEE 6261. Environmental Fluid Mechanics. 3 Credit Hours."
-  url = ""
-  certificate_url = ""
-  date_start = "2020-01-06"
-  date_end = "2020-04-21"
-  description = "Dynamics, mixing, and contaminant transport in surface water bodies, including lakes, rivers, estuaries, and coastal waters. Introduction to numerical models. Prediction of mixing zones."
-
 
 +++
