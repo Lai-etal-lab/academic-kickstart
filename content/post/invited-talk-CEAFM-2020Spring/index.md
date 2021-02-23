@@ -1,5 +1,5 @@
 ---
-title: "Upcoming Seminar talk at John Hopkins Center for Environmental and Applied Fluid Mechanics"
+title: "Upcoming Seminar at John Hopkins Center for Environmental and Applied Fluid Mechanics"
 subtitle: ""
 summary: ""
 authors: 
@@ -31,9 +31,7 @@ image:
 projects: []
 ---
 
-Tune in to the virtual seminar [https://wse.zoom.us/j/93762992307](https://wse.zoom.us/j/93762992307) this Friday 3 pm EST .
-
-**Date:** Friday, Februray 26, 2021, 3 pm EST 
+Tune in to the virtual seminar [https://wse.zoom.us/j/93762992307](https://wse.zoom.us/j/93762992307) this Friday (Feb. 26, 2021) 3 pm EST.
 
 **Title: “Pseudo-Volumetric Reconstruction of Velocity and Density Fields from 2D Data & Energy Cascade in Multiphase Flows”**
 
