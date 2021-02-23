@@ -1,13 +1,13 @@
 ---
-title: "Invited talk Spring 2021- Center for Environmental & Applied Fluid Mechanics (JHU)"
+title: "Upcoming Seminar talk at John Hopkins Center for Environmental & Applied Fluid Mechanics"
 subtitle: ""
 summary: ""
 authors: 
 - admin
 tags: []
 categories: [Talk]
-date: 2021-02-26T17:15:00-16:00
-lastmod: 2021-02-21T17:00:00-04:00
+date: 2021-02-23T17:00:00-16:00
+lastmod: 2021-02-23T17:00:00-04:00
 featured: false
 draft: false
 
@@ -31,13 +31,20 @@ image:
 projects: []
 ---
 
-In this talk, I will present a three-camera reconstruction method to obtain time-resolved, 3D fluid velocity and density data
-from planar data. The efficacy of the method has been validated using a DNS dataset of turbulent channel flow. It is then applied to a combined stereo-PIV and PLIF dataset to reconstruct the turbulent structures inside a turbulent SF6 jet discharged into a coflowing air stream. In the second part, I will discuss the similarities and differences on the interscale
-kinetic energy transfer in particle-laden and bubble-laden plumes/flows. Here is the announcement on the CEAFM website: [https://pages.jh.edu/ceafm/weekly-seminar/Spring21/Lai.html](https://pages.jh.edu/ceafm/weekly-seminar/Spring21/Lai.html).  
+Tune in to the virtual seminar [https://wse.zoom.us/j/93762992307](https://wse.zoom.us/j/93762992307) this Friday 3 pm EST .
 
 **Date:** Friday, Februray 26, 2021, 3 pm EST 
 
 **Title: “Pseudo-Volumetric Reconstruction of Velocity and Density Fields from 2D Data & Energy Cascade in Multiphase Flows”**
 
-Attend the virtual seminar at [https://wse.zoom.us/j/93762992307](https://wse.zoom.us/j/93762992307)
+**Abstract:** Fluid turbulence is an unsteady, three-dimensional (3D) phenomenon that affects the dispersion of heat and mass in the environment and the friction (drag) at solid boundaries. To fully characterize a turbulent flow thus requires the simultaneous measurements of the fluid velocity, density, and tracer mass distributions within a fluid volume at a sufficient spatial-temporal resolution. This is a non-trivial task for experimentalists because of the capital involved; it is estimated that between 8 to 12 high-speed cameras are required to do a full tomographic reconstruction of the velocity and scalar fields. Even when a high number of cameras is available, the physical constraints of a setup may preclude the deployment of such imaging system. To circumvent this technological barrier, I will present in the first part of this seminar a three-camera reconstruction method to obtain time-resolved, 3D fluid velocity and
+density data from planar data.
+
+In the second part, I will change gear to discuss the similarities and differences on the interscale energy transfer in particle-laden and bubble-laden plumes. Examples of such plumes are found in subsea oil spills, in chemical mixing tanks, and in volcanic eruptions. Currently, our ability to predict their hydrodynamic behaviors is limited by our knowledge of the turbulence that exists in them. I will present combined experimental and numerical results to bridge this gap.
+
+Announcement link: [https://pages.jh.edu/ceafm/weekly-seminar/Spring21/Lai.html](https://pages.jh.edu/ceafm/weekly-seminar/Spring21/Lai.html).  
+
+
+
+
 
