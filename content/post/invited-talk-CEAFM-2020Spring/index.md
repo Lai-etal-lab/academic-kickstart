@@ -1,5 +1,5 @@
 ---
-title: "Upcoming Seminar at John Hopkins Center for Environmental and Applied Fluid Mechanics"
+title: "Upcoming Seminar at Johns Hopkins Center for Environmental and Applied Fluid Mechanics"
 subtitle: ""
 summary: ""
 authors: 
