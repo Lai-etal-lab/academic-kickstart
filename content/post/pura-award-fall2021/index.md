@@ -31,4 +31,4 @@ image:
 projects: []
 ---
 
-Congratulations to [Alex](../author/alex-zimmer/) for winning the first [PURA](http://www.undergradresearch.gatech.edu/node/115) in Et al. lab to fund his research over this fall. 
+Congratulations to [Alex](../../author/alex-zimmer/) for winning the first [PURA](http://www.undergradresearch.gatech.edu/node/115) in Et al. lab to fund his research over this fall. 
