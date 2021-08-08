@@ -26,7 +26,7 @@ interests:
 
 
 education:
-  courses:
+#  courses:
 
 
 
