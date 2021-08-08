@@ -2,7 +2,7 @@
 # Display name
 title: Muhammad Ahmad Mustafa 
 
-weight: 2
+weight: 1
 
 # Username (this should match the folder name)
 authors:
