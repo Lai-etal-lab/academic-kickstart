@@ -31,13 +31,13 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Fall 2020"
+  organization = "Fall 2021 | Fall 2020"
   organization_url = ""
   title = "CEE 6281. Open Channel Hydraulics. 3 Credit Hours."
   url = ""
   certificate_url = ""
-  date_start = "2020-08-17"
-  date_end = "2020-12-12"
+  date_start = "2021-08-23"
+  date_end = "2021-12-31"
   description = "Flow of liquids with free surfaces in artificial and natural channels. Analysis of flow resistance. Computation of gradually varied flow profiles. Flow through transitions, spillways, bridges, culverts. Analysis of unsteady flow."
 
 +++
