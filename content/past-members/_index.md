@@ -2,7 +2,7 @@
 # Page metadata.
 title: Past members
 date: "2020-08-04T00:00:00Z"
-lastmod: "2020-08-04T00:00:00Z"
+lastmod: "2021-08-08T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -15,9 +15,18 @@ menu: past-members
 
 ---
 
+## Doctoral students
+
+|  Name           | Major                          | Terms							| 								 |
+| ----------------| ------------------------------ | ------------------------------ | ------------------------------ | 
+| [Shantanu Soumya](../author/shantanu-soumya/) | Civil Engineering | Spring - Fall 2020	| Now a PhD student at University of New Hampshire 
+
+
 ## Undergraduate students
 
 |  Name           | Major                          | Terms							| 
 | ----------------| ------------------------------ | ------------------------------ | 
-| [Samuel Walters](../author/samuel-walters/)  | Mechanical Engineering | Spring 2020                    | 
-| [Zachary Byrd](../author/zachary-byrd/)      | Mechanical Engineering | Spring 2020                    | 
+| [Samuel Walters](../author/samuel-walters/)  | Mechanical Engineering | Spring 2020       | 
+| [Zachary Byrd](../author/zachary-byrd/)      | Mechanical Engineering | Spring 2020       | 
+
+
