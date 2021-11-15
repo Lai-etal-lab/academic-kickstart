@@ -2,7 +2,7 @@
 # Display name
 title: Zachary Byrd
 
-weight: 1
+weight: 3
 
 # Username (this should match the folder name)
 authors:
@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergrad Researcher (Spring '20)
+role: PhD Student (Fall '21 - Present); Undergrad Researcher (Spring '20)
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
-- 
+- PhD Students
 
 ---
 
