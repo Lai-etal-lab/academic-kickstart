@@ -2,7 +2,7 @@
 # Display name
 title: Zephren Collinson
 
-weight: 1
+weight: 3
 
 # Username (this should match the folder name)
 authors:
@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student (Spring '21 - present)
+role: PhD Student (Fall '21 - Present); MSc Student (Spring '21 - Fall '21)
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
-- Master Students
+- PhD Students
 
 ---
 
