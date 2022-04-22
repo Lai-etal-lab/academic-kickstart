@@ -1,5 +1,5 @@
 ---
-title: "Awarded NSF Grant for studying the melting of glacier ice"
+title: "Awarded NSF grant for studying the melting of glacier ice"
 subtitle: ""
 summary: ""
 authors: 
