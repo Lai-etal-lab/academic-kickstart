@@ -7,7 +7,7 @@ authors:
 tags: []
 categories: [Grant]
 date: 2022-04-22T17:18:37-04:00
-lastmod: 2020-04-22T17:18:37-04:00
+lastmod: 2022-04-22T17:18:37-04:00
 featured: false
 draft: false
 
@@ -18,7 +18,7 @@ profile: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
 image:
-  caption: "NSF Org: Office of Polar Programs (OPP)"
+  caption: ""
   focal_point: ""
 
 
