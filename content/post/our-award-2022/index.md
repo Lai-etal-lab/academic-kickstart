@@ -5,7 +5,7 @@ summary: ""
 authors: 
 - admin
 tags: []
-categories: [Grant]
+categories: [Award]
 date: '2022-05-31T00:00:00Z'
 lastmod: '2022-05-31T00:00:00Z'
 featured: false
