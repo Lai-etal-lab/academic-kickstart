@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student (Fall '21 - Present)
+role: PhD Student (Fall '22 - Present)
 
 # Organizations/Affiliations
 organizations:

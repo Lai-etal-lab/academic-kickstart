@@ -29,6 +29,16 @@ date_format = "Jan 2006"
   date_end = "2023-05-01"
   description = "Dynamics, mixing, and contaminant transport in surface water bodies, including lakes, rivers, estuaries, and coastal waters. Introduction to numerical models. Prediction of mixing zones."
 
+[[item]]
+  organization = "Spring 2023"
+  organization_url = ""
+  title = "CEE 4200. Hydraulic Engineering. 3 Credit Hours."
+  url = ""
+  certificate_url = ""
+  date_start = "2023-01-01"
+  date_end = "2023-05-01"
+  description = "Applications of fluid mechanics to engineering and natural systems including fluid drag, open channel flow, turbomachinery, and environmental hydraulics; laboratory experiments; computational hydraulics."
+
 
 [[item]]
   organization = "Fall 2022 | Fall 2021 | Fall 2020"
