@@ -28,8 +28,10 @@ interests:
 - Teaching/Professorship 
 
 education:
-#  courses:
-
+  courses:
+  - course: BSc in Mechanical Engineering
+    institution: Georgia Institute of Technology
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

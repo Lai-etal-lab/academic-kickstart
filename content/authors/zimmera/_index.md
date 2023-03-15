@@ -26,8 +26,10 @@ interests:
 
 
 education:
-#  courses:
-
+  courses:
+  - course: BSc in Civil Engineering
+    institution: Georgia Institute of Technology
+    year: 2023
 
 
 # Social/Academic Networking
