@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergrad Researcher (Spring '21 - present); [PURA](http://www.undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards) awardee (Fall '21)
+role: MSc Student (Fall '22 - Present); Undergrad Researcher (Spring '21 - Spring '22); [PURA](http://www.undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards) awardee (Fall '21)
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
-- Undergrad Students
+- Master Students
 
 ---
 
